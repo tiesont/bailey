@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bailey.Web.Security", "Bailey.Web.Security\Bailey.Web.Security.csproj", "{08F7C525-07CF-4F19-8932-3DB0C718BA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bailey.Web.Mvc", "Bailey.Web.Mvc\Bailey.Web.Mvc.csproj", "{96E703F0-F97A-44E8-9C6C-16DE50F43C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bailey.Web.Http", "Bailey.Web.Http\Bailey.Web.Http.csproj", "{332D4A29-863B-4ED5-BB36-0D5CCCB40603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F7C525-07CF-4F19-8932-3DB0C718BA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F7C525-07CF-4F19-8932-3DB0C718BA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F7C525-07CF-4F19-8932-3DB0C718BA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F7C525-07CF-4F19-8932-3DB0C718BA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E703F0-F97A-44E8-9C6C-16DE50F43C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E703F0-F97A-44E8-9C6C-16DE50F43C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E703F0-F97A-44E8-9C6C-16DE50F43C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E703F0-F97A-44E8-9C6C-16DE50F43C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332D4A29-863B-4ED5-BB36-0D5CCCB40603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332D4A29-863B-4ED5-BB36-0D5CCCB40603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332D4A29-863B-4ED5-BB36-0D5CCCB40603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332D4A29-863B-4ED5-BB36-0D5CCCB40603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
